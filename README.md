@@ -4,6 +4,27 @@ A curated list of Pulsar tools, integrations, and resources.
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
+## Clients
+
+The clients developed under ASF. 
+
+- [C++](http://pulsar.apache.org/docs/en/client-libraries-cpp/)
+- [Go](http://pulsar.apache.org/docs/en/client-libraries-go/)
+- [Java](http://pulsar.apache.org/docs/en/client-libraries-java/)
+- [NodeJS](https://github.com/apache/pulsar-client-node)
+- [Python](http://pulsar.apache.org/docs/en/client-libraries-python/)
+- [Websocket](http://pulsar.apache.org/docs/en/client-libraries-websocket/)
+
+Other clients:
+
+- Go
+  - [pulsar-client-go](https://github.com/Comcast/pulsar-client-go)
+- Rust
+  - [pulsar-rs](https://github.com/wyyerd/pulsar-rs)
+- Scala
+  - [pulsar4s](https://github.com/sksamuel/pulsar4s)
+
+
 ## Data Processing
 
 - [pulsar-flink](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example): A collection of streaming and batch connectors for [Apache Flink](http://flink.apache.org) processing streams in Pulsar. [batch](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example) and
