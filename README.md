@@ -59,3 +59,7 @@ Other clients:
 
 - [pulsar-grafana](http://pulsar.apache.org/docs/en/deploy-monitoring/#grafana): The pulsar grafana dashboard for Pulsar running on kubernetes.
 - [apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard): The grafana dashboard templates for different Pulsar components running in both kubernetes and on-prem machines.
+
+## Source Code Analysis
+
+- [Pulsar source code analysis / Pulsar 源码分析](https://github.com/kuangye098/Pulsar-analysis) by [@kuangye098](https://github.com/kuangye098)
