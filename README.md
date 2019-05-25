@@ -47,3 +47,8 @@ Other clients:
 - [logstash-input-pulsar](https://github.com/se7enkings/logstash-input-pulsar): A logstash input that receives data from Pulsar.
 - [pulsar-beat-output](https://github.com/streamnative/pulsar-beat-output): [Elastic Beats](https://github.com/elastic/beats) to Apache Pulsar.
 - [pulsar-flume-ng-sink](https://github.com/streamnative/pulsar-flume-ng-sink): An [Apache Flume](https://github.com/apache/flume) Sink implementation to publish data to Pulsar.
+
+## Source Code Analysis
+
+- [Pulsar source code analysis / Pulsar 源码分析](https://github.com/kuangye098/Pulsar-analysis) by [@kuangye098](https://github.com/kuangye098)
+
