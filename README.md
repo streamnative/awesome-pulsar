@@ -47,3 +47,15 @@ Other clients:
 - [logstash-input-pulsar](https://github.com/se7enkings/logstash-input-pulsar): A logstash input that receives data from Pulsar.
 - [pulsar-beat-output](https://github.com/streamnative/pulsar-beat-output): [Elastic Beats](https://github.com/elastic/beats) to Apache Pulsar.
 - [pulsar-flume-ng-sink](https://github.com/streamnative/pulsar-flume-ng-sink): An [Apache Flume](https://github.com/apache/flume) Sink implementation to publish data to Pulsar.
+
+## Tools
+
+### Dashboards
+
+- [Pulsar Dashboard](http://pulsar.apache.org/docs/en/administration-dashboard/): A web application that enables users to monitor current stats for all topics in tabular form.
+- [Pulsar Express](https://github.com/bbonnin/pulsar-express): Simple web interface for Apache Pulsar developed using [Nuxt.js](https://nuxtjs.org/) by [bbonnin](https://github.com/bbonnin).
+
+### Monitoring
+
+- [pulsar-grafana](http://pulsar.apache.org/docs/en/deploy-monitoring/#grafana): The pulsar grafana dashboard for Pulsar running on kubernetes.
+- [apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard): The grafana dashboard templates for different Pulsar components running in both kubernetes and on-prem machines.
