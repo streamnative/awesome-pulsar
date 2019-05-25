@@ -19,6 +19,8 @@ Other clients:
 
 - Go
   - [pulsar-client-go](https://github.com/Comcast/pulsar-client-go)
+- Ruby
+  - [ruby-pulsar-client](https://github.com/hiroakiwater/ruby-pulsar-client) ([@hiroakiwater](https://github.com/hiroakiwater))
 - Rust
   - [pulsar-rs](https://github.com/wyyerd/pulsar-rs)
 - Scala
