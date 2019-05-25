@@ -52,13 +52,13 @@ Other clients:
 
 ### Dashboards
 
-- [Pulsar Dashboard](http://pulsar.apache.org/docs/en/administration-dashboard/): A web application that enables users to monitor current stats for all topics in tabular form.
-- [Pulsar Express](https://github.com/bbonnin/pulsar-express): Simple web interface for Apache Pulsar developed using [Nuxt.js](https://nuxtjs.org/) by [bbonnin](https://github.com/bbonnin).
+- [Pulsar Dashboard](http://pulsar.apache.org/docs/en/administration-dashboard/): A web application that enables users to monitor the current stats of all topics in the tabular form.
+- [Pulsar Express](https://github.com/bbonnin/pulsar-express): A simple web interface for Apache Pulsar, it is developed with [Nuxt.js](https://nuxtjs.org/) by [Bruno Bonnin](https://github.com/bbonnin).
 
 ### Monitoring
 
-- [pulsar-grafana](http://pulsar.apache.org/docs/en/deploy-monitoring/#grafana): The pulsar grafana dashboard for Pulsar running on kubernetes.
-- [apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard): The grafana dashboard templates for different Pulsar components running in both kubernetes and on-prem machines.
+- [pulsar-grafana](http://pulsar.apache.org/docs/en/deploy-monitoring/#grafana): With the `pulsar-grafana` Docker image, you can create a dashboard driven by the data stored in Prometheus. It is enabled by default when deploying Pulsar on Kubernetes.
+- [apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard): Provides grafana dashboard templates for different Pulsar components running on both Kubernetes and on-premise machines.
 
 ## Source Code Analysis
 
