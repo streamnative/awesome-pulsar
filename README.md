@@ -1,4 +1,6 @@
 # Awesome Pulsar
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamnative%2Fawesome-pulsar.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamnative%2Fawesome-pulsar?ref=badge_shield)
+
 
 A curated list of Pulsar tools, integrations, and resources.
 
@@ -65,3 +67,7 @@ Other clients:
 ## Source Code Analysis
 
 - [Pulsar source code analysis / Pulsar 源码分析](https://github.com/kuangye098/Pulsar-analysis) by [@kuangye098](https://github.com/kuangye098)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstreamnative%2Fawesome-pulsar.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstreamnative%2Fawesome-pulsar?ref=badge_large)
