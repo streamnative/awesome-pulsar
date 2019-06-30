@@ -49,6 +49,7 @@ Other clients:
 - [logstash-input-pulsar](https://github.com/se7enkings/logstash-input-pulsar): A logstash input that receives data from Pulsar.
 - [pulsar-beat-output](https://github.com/streamnative/pulsar-beat-output): [Elastic Beats](https://github.com/elastic/beats) to Apache Pulsar.
 - [pulsar-flume-ng-sink](https://github.com/streamnative/pulsar-flume-ng-sink): An [Apache Flume](https://github.com/apache/flume) Sink implementation to publish data to Pulsar.
+- [pinterest/singer](https://github.com/pinterest/singer): A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
 
 ## Tools
 
