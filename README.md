@@ -33,7 +33,9 @@ Other clients:
 
 - [pulsar-flink](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example): A collection of streaming and batch connectors for [Apache Flink](http://flink.apache.org) processing streams in Pulsar. [batch](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example) and
   [streaming](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/streaming/connectors/pulsar/example).
-- [pulsar-spark](http://pulsar.apache.org/docs/en/adaptors-spark/): A [Spark Streaming](http://spark.apache.org) receiver to receive data from Pulsar.
+- Pulsar Spark Integration:
+  - [pulsar-spark](http://pulsar.apache.org/docs/en/adaptors-spark/): A [Spark Streaming](http://spark.apache.org) receiver to receive data from Pulsar.
+  - [streamnative/pulsar-spark](https://github.com/streamnative/pulsar-spark): Pulsar Spark Connector for [Spark SQL](https://spark.apache.org/sql/) and [Spark Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html).
 - [pulsar-storm](http://pulsar.apache.org/docs/en/adaptors-storm): A Pulsar Spout and Bolt for integrating with [Apache Storm](http://storm.apache.org/) topologies.
 
 ## Interactive Query
