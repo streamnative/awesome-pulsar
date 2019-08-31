@@ -32,7 +32,7 @@ Other clients:
 ## Data Processing
 
 - Pulsar Flink Integration:
-  - [Flink 1.9+ Integration](https://github.com/streamnative/pulsar-flink): Streaming source and sink connector, Streaming Table support and catalog/schema integration.
+  - [Flink 1.9+ Integration](https://github.com/streamnative/pulsar-flink): Streaming source and sink connector, streaming table support and catalog/schema integration.
   - [Flink 1.6 Integration](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example): A collection of streaming and batch connectors for [Apache Flink](http://flink.apache.org) processing streams in Pulsar. [batch](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/batch/connectors/pulsar/example) and
   [streaming](https://github.com/apache/pulsar/tree/master/examples/flink/src/main/java/org/apache/flink/streaming/connectors/pulsar/example).
 - Pulsar Spark Integration:
