@@ -27,6 +27,8 @@ Other clients:
   - [pulsar-rs](https://github.com/wyyerd/pulsar-rs)
 - Scala
   - [pulsar4s](https://github.com/sksamuel/pulsar4s)
+- .NET
+  - [pulsar-client-dotnet](https://github.com/fsharplang-ru/pulsar-client-dotnet)
 
 
 ## Data Processing
