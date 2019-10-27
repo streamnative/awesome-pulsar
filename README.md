@@ -29,6 +29,7 @@ Other clients:
   - [pulsar4s](https://github.com/sksamuel/pulsar4s)
 - .NET
   - [pulsar-client-dotnet](https://github.com/fsharplang-ru/pulsar-client-dotnet)
+  - [dotpulsar](https://github.com/danske-commodities/dotpulsar)
 
 
 ## Data Processing
