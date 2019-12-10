@@ -8,7 +8,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Clients
 
-The clients developed under ASF. 
+The clients developed under ASF.
 
 - [C++](http://pulsar.apache.org/docs/en/client-libraries-cpp/)
 - [Go](http://pulsar.apache.org/docs/en/client-libraries-go/)
@@ -23,6 +23,7 @@ Other clients:
   - [pulsar-client-go](https://github.com/Comcast/pulsar-client-go)
 - Ruby
   - [ruby-pulsar-client](https://github.com/hiroakiwater/ruby-pulsar-client) ([@hiroakiwater](https://github.com/hiroakiwater))
+  - [pulsar_sdk](https://github.com/archfish/pulsar_sdk)
 - Rust
   - [pulsar-rs](https://github.com/wyyerd/pulsar-rs)
 - Scala
