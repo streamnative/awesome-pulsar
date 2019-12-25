@@ -57,6 +57,7 @@ Other clients:
 ## Connectors
 
 - [streamnative/pulsar-io-kafka](https://github.com/streamnative/pulsar-io-kafka): An enhanced version of pulsar-io-kafka connector to support copying data between Kafka and Pulsar with schema.
+- [zwzch/fluent-plugin-pulsar](https://github.com/zwzch/fluent-plugin-pulsar): An enhanced version of fluent-plugin-pulsar connector to support copying data between Pulsar and Fluent.
 
 ## Logging
 
